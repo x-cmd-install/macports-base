@@ -1,0 +1,62 @@
+about:
+  description: The MacPorts command-line client
+  license: BSD-3-Clause
+  homepage: https://trac.macports.org
+  head: c9797f6
+  archived: false
+  latestVersion: v2.12.6
+  collectedAt: 2026-09-02T05:07:08Z
+timeline:
+  created: 2016-10-09
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-25
+popularity:
+  star: 1026
+  watcher: 76
+  fork: 288
+  release: 69
+  contributor: 114
+  pullRequest: 150
+  issue: 0
+language:
+  Tcl: 1955084
+  C: 1251938
+  Assembly: 357723
+  M4: 100298
+  Shell: 43130
+  Makefile: 34152
+  Rich Text Format: 6834
+totalLine: 3749159
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 1
+    mergedPR: 0
+    openPR: 2
+    closedIssue: 0
+    openIssue: 0
+    commit: 13
+  last90d:
+    since: 2026-06-04
+    release: 1
+    mergedPR: 5
+    openPR: 2
+    closedIssue: 0
+    openIssue: 0
+    commit: 39
+  last180d:
+    since: 2026-03-06
+    release: 4
+    mergedPR: 25
+    openPR: 8
+    closedIssue: 0
+    openIssue: 0
+    commit: 158
+  last360d:
+    since: 2025-09-07
+    release: 11
+    mergedPR: 27
+    openPR: 8
+    closedIssue: 0
+    openIssue: 0
+    commit: 299
