@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.12.6"
   latestRelease: "v2.12.6"
   latestPrerelease: "v2.12.0-rc2"
-  collectedAt: 2026-09-09T04:41:05Z
+  collectedAt: 2026-09-09T18:47:15Z
 timeline:
   created: 2016-10-09
   lastCommit: 2026-08-31
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-25
   lastPrerelease: 2026-01-29
 popularity:
-  star: 1030
+  star: 1031
   watcher: 76
   fork: 289
   release: 69
@@ -89,7 +89,7 @@ total:
   commit: 9067
 ---
 path: /home/runner/.x-repo/github.com/macports/macports-base
-collectedAt: 2026-09-09T04:41:25Z
+collectedAt: 2026-09-09T18:47:31Z
 loc:
   C:
     code: 490684
