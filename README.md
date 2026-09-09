@@ -7,7 +7,7 @@ The MacPorts command-line client
 - **Latest release**: `v2.12.6` (2026-08-25)
 - **Last commit**: 2026-08-31
 - **License**: BSD-3-Clause
-- **Stars**: 1030 · **Forks**: 289 · **Open issues**: 0 · **Contributors**: 89
+- **Stars**: 1031 · **Forks**: 289 · **Open issues**: 0 · **Contributors**: 89
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/macports-base> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T04:41:44Z._
+_Last regenerated: 2026-09-09T18:47:37Z._
