@@ -23,7 +23,52 @@ x install macports-base
 - **Latest**: `v2.12.6` (2026-08-25)
 - **Last commit**: 2026-08-31
 - **Assets in release**: 41
-- **Published**: 2026-08-25T18:57:30Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [MacPorts-2.12.6-10.10-Yosemite.pkg](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-10.10-Yosemite.pkg) | 5.1 MiB | `other` |
+| [MacPorts-2.12.6-10.10-Yosemite.pkg.asc](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-10.10-Yosemite.pkg.asc) | 265 B | `other` |
+| [MacPorts-2.12.6-10.11-ElCapitan.pkg](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-10.11-ElCapitan.pkg) | 5.1 MiB | `other` |
+| [MacPorts-2.12.6-10.11-ElCapitan.pkg.asc](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-10.11-ElCapitan.pkg.asc) | 265 B | `other` |
+| [MacPorts-2.12.6-10.12-Sierra.pkg](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-10.12-Sierra.pkg) | 5.1 MiB | `other` |
+| [MacPorts-2.12.6-10.12-Sierra.pkg.asc](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-10.12-Sierra.pkg.asc) | 265 B | `other` |
+| [MacPorts-2.12.6-10.13-HighSierra.pkg](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-10.13-HighSierra.pkg) | 5.1 MiB | `other` |
+| [MacPorts-2.12.6-10.13-HighSierra.pkg.asc](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-10.13-HighSierra.pkg.asc) | 265 B | `other` |
+| [MacPorts-2.12.6-10.14-Mojave.pkg](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-10.14-Mojave.pkg) | 5.3 MiB | `other` |
+| [MacPorts-2.12.6-10.14-Mojave.pkg.asc](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-10.14-Mojave.pkg.asc) | 265 B | `other` |
+| [MacPorts-2.12.6-10.15-Catalina.pkg](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-10.15-Catalina.pkg) | 5.3 MiB | `other` |
+| [MacPorts-2.12.6-10.15-Catalina.pkg.asc](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-10.15-Catalina.pkg.asc) | 265 B | `other` |
+| [MacPorts-2.12.6-10.5-Leopard.dmg](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-10.5-Leopard.dmg) | 6.8 MiB | `other` |
+| [MacPorts-2.12.6-10.5-Leopard.dmg.asc](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-10.5-Leopard.dmg.asc) | 265 B | `other` |
+| [MacPorts-2.12.6-10.6-SnowLeopard.pkg](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-10.6-SnowLeopard.pkg) | 6.8 MiB | `other` |
+| [MacPorts-2.12.6-10.6-SnowLeopard.pkg.asc](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-10.6-SnowLeopard.pkg.asc) | 265 B | `other` |
+| [MacPorts-2.12.6-10.7-Lion.pkg](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-10.7-Lion.pkg) | 5.1 MiB | `other` |
+| [MacPorts-2.12.6-10.7-Lion.pkg.asc](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-10.7-Lion.pkg.asc) | 265 B | `other` |
+| [MacPorts-2.12.6-10.8-MountainLion.pkg](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-10.8-MountainLion.pkg) | 5.2 MiB | `other` |
+| [MacPorts-2.12.6-10.8-MountainLion.pkg.asc](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-10.8-MountainLion.pkg.asc) | 265 B | `other` |
+| [MacPorts-2.12.6-10.9-Mavericks.pkg](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-10.9-Mavericks.pkg) | 5.1 MiB | `other` |
+| [MacPorts-2.12.6-10.9-Mavericks.pkg.asc](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-10.9-Mavericks.pkg.asc) | 265 B | `other` |
+| [MacPorts-2.12.6-11-BigSur.pkg](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-11-BigSur.pkg) | 7.1 MiB | `other` |
+| [MacPorts-2.12.6-11-BigSur.pkg.asc](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-11-BigSur.pkg.asc) | 265 B | `other` |
+| [MacPorts-2.12.6-12-Monterey.pkg](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-12-Monterey.pkg) | 7.1 MiB | `other` |
+| [MacPorts-2.12.6-12-Monterey.pkg.asc](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-12-Monterey.pkg.asc) | 265 B | `other` |
+| [MacPorts-2.12.6-13-Ventura.pkg](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-13-Ventura.pkg) | 7.1 MiB | `other` |
+| [MacPorts-2.12.6-13-Ventura.pkg.asc](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-13-Ventura.pkg.asc) | 265 B | `other` |
+| [MacPorts-2.12.6-14-Sonoma.pkg](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-14-Sonoma.pkg) | 7.1 MiB | `other` |
+| [MacPorts-2.12.6-14-Sonoma.pkg.asc](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-14-Sonoma.pkg.asc) | 265 B | `other` |
+| [MacPorts-2.12.6-15-Sequoia.pkg](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-15-Sequoia.pkg) | 7.1 MiB | `other` |
+| [MacPorts-2.12.6-15-Sequoia.pkg.asc](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-15-Sequoia.pkg.asc) | 265 B | `other` |
+| [MacPorts-2.12.6-26-Tahoe.pkg](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-26-Tahoe.pkg) | 7.1 MiB | `other` |
+| [MacPorts-2.12.6-26-Tahoe.pkg.asc](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-26-Tahoe.pkg.asc) | 265 B | `other` |
+| [MacPorts-2.12.6.chk.txt](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6.chk.txt) | 6.4 KiB | `other` |
+| [MacPorts-2.12.6.tar.bz2](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6.tar.bz2) | 24.9 MiB | `other` |
+| [MacPorts-2.12.6.tar.bz2.asc](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6.tar.bz2.asc) | 289 B | `other` |
+| [MacPorts-2.12.6.tar.bz2.sig](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6.tar.bz2.sig) | 155 B | `other` |
+| [MacPorts-2.12.6.tar.gz](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6.tar.gz) | 30.0 MiB | `native/unknown` |
+| [MacPorts-2.12.6.tar.gz.asc](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6.tar.gz.asc) | 289 B | `other` |
+| [MacPorts-2.12.6.tar.gz.sig](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6.tar.gz.sig) | 155 B | `other` |
 
 ## Popularity
 
@@ -68,8 +113,8 @@ Lowest-scoring checks:
 Install metadata for macports-base lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `macports-base` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/macports-base.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/macports-base.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:41:03Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:26:05Z._
