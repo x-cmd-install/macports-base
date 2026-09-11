@@ -12,6 +12,28 @@ The MacPorts command-line client
 x install macports-base
 ```
 
+## Code insight
+
+Total: **1,179,823** lines of code across **2579** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| C | 490,684 | 213,234 | 66,201 | 603 |
+| Tcl | 408,309 | 105,132 | 61,022 | 1200 |
+| Html | 150,485 | 2,822 | 1,503 | 530 |
+| CHeader | 56,264 | 34,444 | 6,402 | 226 |
+| M4 | 27,379 | 7,375 | 1,662 | 20 |
+
+## OpenSSF Scorecard
+
+Overall score: **4 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (0/10) — Found 1/30 approved changesets -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## Source
 
 - **Upstream**: <https://github.com/macports/macports-base>
@@ -23,6 +45,25 @@ x install macports-base
 - **Latest**: `v2.12.6` (2026-08-25)
 - **Last commit**: 2026-08-31
 - **Assets in release**: 41
+
+## Popularity
+
+- **Stars**: 1,031 · **Forks**: 289 · **Open issues**: 0 · **Contributors**: 89
+
+## Totals (cumulative)
+
+- **Releases**: 69 · **Merged PRs**: 266 · **Open PRs**: 34 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 9067
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 1 | 0 | 1 | 0 | 0 | 12 |
+| last60d | 2026-07-13 | 1 | 1 | 2 | 0 | 0 | 19 |
+| 90d | 2026-06-13 | 1 | 4 | 2 | 0 | 0 | 37 |
+| last180d | 2026-03-15 | 3 | 19 | 7 | 0 | 0 | 145 |
+| 360d | 2025-09-16 | 11 | 27 | 8 | 0 | 0 | 294 |
+| last720d | 2024-09-21 | 25 | 40 | 8 | 0 | 0 | 540 |
 
 ## Release assets
 
@@ -70,44 +111,6 @@ x install macports-base
 | [MacPorts-2.12.6.tar.gz.asc](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6.tar.gz.asc) | 289 B | `other` |
 | [MacPorts-2.12.6.tar.gz.sig](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6.tar.gz.sig) | 155 B | `other` |
 
-## Popularity
-
-- **Stars**: 1,031 · **Forks**: 289 · **Open issues**: 0 · **Contributors**: 89
-
-## Totals (cumulative)
-
-- **Releases**: 69 · **Merged PRs**: 266 · **Open PRs**: 34 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 9067
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 0 | 1 | 0 | 0 | 12 |
-| 90d | 2026-06-12 | 1 | 4 | 2 | 0 | 0 | 37 |
-| 360d | 2025-09-15 | 11 | 27 | 8 | 0 | 0 | 294 |
-
-## Code size
-
-Total: **1,179,823** lines of code across **2579** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| C | 490,684 | 213,234 | 66,201 | 603 |
-| Tcl | 408,309 | 105,132 | 61,022 | 1200 |
-| Html | 150,485 | 2,822 | 1,503 | 530 |
-| CHeader | 56,264 | 34,444 | 6,402 | 226 |
-| M4 | 27,379 | 7,375 | 1,662 | 20 |
-
-## OpenSSF Scorecard
-
-Overall score: **4 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (0/10) — Found 1/30 approved changesets -- score normalized to 0
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-
 ## Improve this data
 
 Install metadata for macports-base lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `macports-base` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -117,4 +120,4 @@ Install metadata for macports-base lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:26:05Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:16:51Z._
