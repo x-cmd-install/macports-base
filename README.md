@@ -44,11 +44,11 @@ Lowest-scoring checks:
 
 - **Latest**: `v2.12.6` (2026-08-25)
 - **Last commit**: 2026-08-31
-- **Assets in release**: 41
+- **Assets in release**: 43
 
 ## Popularity
 
-- **Stars**: 1,032 · **Forks**: 291 · **Open issues**: 0 · **Contributors**: 89
+- **Stars**: 1,034 · **Forks**: 291 · **Open issues**: 0 · **Contributors**: 89
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 1 | 0 | 1 | 0 | 0 | 8 |
-| last60d | 2026-07-16 | 1 | 0 | 2 | 0 | 0 | 17 |
-| 90d | 2026-06-16 | 1 | 3 | 2 | 0 | 0 | 31 |
-| last180d | 2026-03-18 | 2 | 14 | 6 | 0 | 0 | 126 |
-| 360d | 2025-09-19 | 11 | 27 | 8 | 0 | 0 | 290 |
-| last720d | 2024-09-24 | 25 | 40 | 8 | 0 | 0 | 537 |
+| 30d | 2026-08-16 | 1 | 0 | 1 | 0 | 0 | 8 |
+| last60d | 2026-07-17 | 1 | 0 | 2 | 0 | 0 | 17 |
+| 90d | 2026-06-17 | 1 | 3 | 2 | 0 | 0 | 31 |
+| last180d | 2026-03-19 | 2 | 14 | 6 | 0 | 0 | 126 |
+| 360d | 2025-09-20 | 11 | 27 | 8 | 0 | 0 | 290 |
+| last720d | 2024-09-25 | 25 | 39 | 8 | 0 | 0 | 536 |
 
 ## Release assets
 
@@ -103,7 +103,9 @@ Lowest-scoring checks:
 | [MacPorts-2.12.6-15-Sequoia.pkg.asc](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-15-Sequoia.pkg.asc) | 265 B | `other` |
 | [MacPorts-2.12.6-26-Tahoe.pkg](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-26-Tahoe.pkg) | 7.1 MiB | `other` |
 | [MacPorts-2.12.6-26-Tahoe.pkg.asc](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-26-Tahoe.pkg.asc) | 265 B | `other` |
-| [MacPorts-2.12.6.chk.txt](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6.chk.txt) | 6.4 KiB | `other` |
+| [MacPorts-2.12.6-27-GoldenGate.pkg](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-27-GoldenGate.pkg) | 7.0 MiB | `other` |
+| [MacPorts-2.12.6-27-GoldenGate.pkg.asc](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6-27-GoldenGate.pkg.asc) | 265 B | `other` |
+| [MacPorts-2.12.6.chk.txt](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6.chk.txt) | 6.8 KiB | `other` |
 | [MacPorts-2.12.6.tar.bz2](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6.tar.bz2) | 24.9 MiB | `other` |
 | [MacPorts-2.12.6.tar.bz2.asc](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6.tar.bz2.asc) | 289 B | `other` |
 | [MacPorts-2.12.6.tar.bz2.sig](https://github.com/macports/macports-base/releases/download/v2.12.6/MacPorts-2.12.6.tar.bz2.sig) | 155 B | `other` |
@@ -120,4 +122,4 @@ Install metadata for macports-base lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T04:53:02Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T04:56:14Z._
