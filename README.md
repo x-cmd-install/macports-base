@@ -14,7 +14,7 @@ x install macports-base
 
 ## Code insight
 
-Total: **1,179,841** lines of code across **2579** files in the top 5 languages.
+Total: **1,179,840** lines of code across **2579** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.12.6` (2026-08-25)
-- **Last commit**: 2026-10-03
+- **Last commit**: 2026-10-09
 - **Assets in release**: 43
 
 ## Popularity
 
-- **Stars**: 1,052 · **Forks**: 289 · **Open issues**: 0 · **Contributors**: 89
+- **Stars**: 1,053 · **Forks**: 289 · **Open issues**: 0 · **Contributors**: 89
 
 ## Totals (cumulative)
 
-- **Releases**: 69 · **Merged PRs**: 267 · **Open PRs**: 34 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 9074
+- **Releases**: 69 · **Merged PRs**: 267 · **Open PRs**: 34 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 9075
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 0 | 1 | 0 | 0 | 0 | 7 |
-| last60d | 2026-08-09 | 1 | 1 | 1 | 0 | 0 | 20 |
-| 90d | 2026-07-10 | 1 | 2 | 2 | 0 | 0 | 27 |
-| last180d | 2026-04-11 | 2 | 9 | 5 | 0 | 0 | 88 |
-| 360d | 2025-10-13 | 11 | 28 | 8 | 0 | 0 | 286 |
-| last720d | 2024-10-18 | 24 | 38 | 8 | 0 | 0 | 512 |
+| 30d | 2026-09-10 | 0 | 1 | 0 | 0 | 0 | 8 |
+| last60d | 2026-08-11 | 1 | 1 | 1 | 0 | 0 | 21 |
+| 90d | 2026-07-12 | 1 | 2 | 2 | 0 | 0 | 28 |
+| last180d | 2026-04-13 | 2 | 8 | 5 | 0 | 0 | 89 |
+| 360d | 2025-10-15 | 11 | 28 | 8 | 0 | 0 | 287 |
+| last720d | 2024-10-20 | 24 | 38 | 8 | 0 | 0 | 513 |
 
 ## Release assets
 
@@ -122,4 +122,4 @@ Install metadata for macports-base lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:05:26Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T05:47:16Z._
