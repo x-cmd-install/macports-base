@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.12.6` (2026-08-25)
-- **Last commit**: 2026-10-09
+- **Last commit**: 2026-10-13
 - **Assets in release**: 43
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 69 · **Merged PRs**: 267 · **Open PRs**: 34 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 9075
+- **Releases**: 69 · **Merged PRs**: 267 · **Open PRs**: 34 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 9076
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 1 | 0 | 0 | 0 | 8 |
-| last60d | 2026-08-13 | 1 | 1 | 1 | 0 | 0 | 20 |
-| 90d | 2026-07-14 | 1 | 1 | 2 | 0 | 0 | 25 |
-| last180d | 2026-04-15 | 2 | 8 | 5 | 0 | 0 | 73 |
-| 360d | 2025-10-17 | 11 | 28 | 8 | 0 | 0 | 286 |
-| last720d | 2024-10-22 | 24 | 38 | 8 | 0 | 0 | 512 |
+| 30d | 2026-09-13 | 0 | 1 | 0 | 0 | 0 | 9 |
+| last60d | 2026-08-14 | 1 | 1 | 1 | 0 | 0 | 21 |
+| 90d | 2026-07-15 | 1 | 1 | 2 | 0 | 0 | 26 |
+| last180d | 2026-04-16 | 2 | 7 | 5 | 0 | 0 | 74 |
+| 360d | 2025-10-18 | 11 | 28 | 8 | 0 | 0 | 287 |
+| last720d | 2024-10-23 | 24 | 38 | 8 | 0 | 0 | 513 |
 
 ## Release assets
 
@@ -122,4 +122,4 @@ Install metadata for macports-base lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T05:57:23Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:02:35Z._
