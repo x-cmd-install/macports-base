@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 1 | 1 | 0 | 0 | 0 | 10 |
-| last60d | 2026-08-19 | 2 | 1 | 0 | 0 | 0 | 22 |
-| 90d | 2026-07-20 | 2 | 1 | 2 | 0 | 0 | 27 |
-| last180d | 2026-04-21 | 3 | 6 | 5 | 0 | 0 | 75 |
-| 360d | 2025-10-23 | 12 | 28 | 7 | 0 | 0 | 288 |
-| last720d | 2024-10-28 | 25 | 38 | 7 | 0 | 0 | 510 |
+| 30d | 2026-09-19 | 1 | 1 | 0 | 0 | 0 | 5 |
+| last60d | 2026-08-20 | 2 | 1 | 0 | 0 | 0 | 17 |
+| 90d | 2026-07-21 | 2 | 1 | 2 | 0 | 0 | 25 |
+| last180d | 2026-04-22 | 3 | 6 | 4 | 0 | 0 | 62 |
+| 360d | 2025-10-24 | 12 | 28 | 7 | 0 | 0 | 281 |
+| last720d | 2024-10-29 | 25 | 38 | 7 | 0 | 0 | 510 |
 
 ## Release assets
 
@@ -122,4 +122,4 @@ Install metadata for macports-base lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T04:23:59Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T04:33:42Z._
