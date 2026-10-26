@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5360060,
       "digest": "sha256:b3cfb70a0e92dd830bd95f46c9d18d145502fb686885d11ca3573154a1a7fc7c",
-      "download_count": 317,
+      "download_count": 337,
       "created_at": "2026-10-13T09:22:50Z",
       "updated_at": "2026-10-13T09:22:52Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7-10.10-Yosemite.pkg"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 265,
       "digest": "sha256:473f901072e0596fda0cb8c5e396678bdbe6957951ca234998ec342fdcb63510",
-      "download_count": 30,
+      "download_count": 31,
       "created_at": "2026-10-13T09:22:52Z",
       "updated_at": "2026-10-13T09:22:53Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7-10.10-Yosemite.pkg.asc"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5355531,
       "digest": "sha256:7fd28ea9d8047b74a6dfe02ba92e150d5ece9d89465b4ac2d0fc8b79596bef24",
-      "download_count": 154,
+      "download_count": 157,
       "created_at": "2026-10-13T09:22:53Z",
       "updated_at": "2026-10-13T09:22:55Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7-10.11-ElCapitan.pkg"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 265,
       "digest": "sha256:a1d323ef1104d7e2b1b529db76e30aad85c934e0996714290d345348a856c59b",
-      "download_count": 19,
+      "download_count": 21,
       "created_at": "2026-10-13T09:22:55Z",
       "updated_at": "2026-10-13T09:22:55Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7-10.11-ElCapitan.pkg.asc"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 5333522,
       "digest": "sha256:d0706f41e6086771666be4e7d23477019fdac16ecd824e7c758b936d4bc1ef31",
-      "download_count": 152,
+      "download_count": 160,
       "created_at": "2026-10-13T09:22:55Z",
       "updated_at": "2026-10-13T09:22:57Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7-10.12-Sierra.pkg"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 265,
       "digest": "sha256:9abdb0d70e2b8801bb9994649f6d1d7b78a4f2b768afd75457ef142079aa43f2",
-      "download_count": 17,
+      "download_count": 18,
       "created_at": "2026-10-13T09:22:57Z",
       "updated_at": "2026-10-13T09:22:58Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7-10.12-Sierra.pkg.asc"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 5354696,
       "digest": "sha256:42f9e7fb4e4d1585b7e1718a63213c9c453e71fb9e05881fb7e8bf62a6663112",
-      "download_count": 408,
+      "download_count": 435,
       "created_at": "2026-10-13T09:22:58Z",
       "updated_at": "2026-10-13T09:22:59Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7-10.13-HighSierra.pkg"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 265,
       "digest": "sha256:5c68925af8b3193f215168032e541c6b55de8daf7b9a58f5245ea82cd27005ce",
-      "download_count": 19,
+      "download_count": 20,
       "created_at": "2026-10-13T09:22:59Z",
       "updated_at": "2026-10-13T09:23:00Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7-10.13-HighSierra.pkg.asc"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 5534198,
       "digest": "sha256:69615c7bf42f41a6a21b0c72a359a96dbad0c9868b3e195cad8f3c24b3ee324b",
-      "download_count": 314,
+      "download_count": 332,
       "created_at": "2026-10-13T09:23:00Z",
       "updated_at": "2026-10-13T09:23:02Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7-10.14-Mojave.pkg"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 265,
       "digest": "sha256:ef4ed700005db54761f5234cd1d32899a235f386caaa13abc85b1b2bd2dee488",
-      "download_count": 27,
+      "download_count": 29,
       "created_at": "2026-10-13T09:23:02Z",
       "updated_at": "2026-10-13T09:23:02Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7-10.14-Mojave.pkg.asc"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 5547226,
       "digest": "sha256:f3c881950d46e59db235117942cf74df6949e0b0b0a6cc938dcf2fba2a55cf72",
-      "download_count": 709,
+      "download_count": 746,
       "created_at": "2026-10-13T09:23:02Z",
       "updated_at": "2026-10-13T09:23:04Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7-10.15-Catalina.pkg"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 265,
       "digest": "sha256:7df82fe7b5d762502298cbbefcc93aee56bc9d39d7a9164f68487b2931113ff1",
-      "download_count": 25,
+      "download_count": 26,
       "created_at": "2026-10-13T09:23:04Z",
       "updated_at": "2026-10-13T09:23:04Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7-10.15-Catalina.pkg.asc"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 7151267,
       "digest": "sha256:2aad56270d8cab35c27100f1b284f73bd4ffb8245d62ede412a3bdfec627fc5d",
-      "download_count": 80,
+      "download_count": 81,
       "created_at": "2026-10-13T09:22:37Z",
       "updated_at": "2026-10-13T09:22:40Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7-10.5-Leopard.dmg"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 265,
       "digest": "sha256:9513c18a1320c4124538897463fa6c84104ed32bf0412303ec8b8d517b32acd8",
-      "download_count": 17,
+      "download_count": 18,
       "created_at": "2026-10-13T09:22:40Z",
       "updated_at": "2026-10-13T09:22:41Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7-10.5-Leopard.dmg.asc"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 7165649,
       "digest": "sha256:cc00d3504ecb036b9b6da7e44c99c2e0ec62ddaad3252e9e5ea43a52b5fc298b",
-      "download_count": 122,
+      "download_count": 123,
       "created_at": "2026-10-13T09:22:41Z",
       "updated_at": "2026-10-13T09:22:43Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7-10.6-SnowLeopard.pkg"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 265,
       "digest": "sha256:40a3bb4291d7a5bf68ffd80370ad071874fc8dfed64c0ca976a211899a299a1c",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2026-10-13T09:22:43Z",
       "updated_at": "2026-10-13T09:22:43Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7-10.6-SnowLeopard.pkg.asc"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 5378515,
       "digest": "sha256:1dd2c1403d8b7bc2db2dbd089dc8ab4e4bed26a017a103306cc6c8d23943dfaf",
-      "download_count": 85,
+      "download_count": 86,
       "created_at": "2026-10-13T09:22:43Z",
       "updated_at": "2026-10-13T09:22:45Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7-10.7-Lion.pkg"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 265,
       "digest": "sha256:4858a8ba3e961690e7776b89384c06d3afc409bdd305a293a6822b8ac6f8718a",
-      "download_count": 17,
+      "download_count": 18,
       "created_at": "2026-10-13T09:22:45Z",
       "updated_at": "2026-10-13T09:22:46Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7-10.7-Lion.pkg.asc"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 5413920,
       "digest": "sha256:021a90d6de4546badb235dc8b589a875544847866ba0d4c33d389e0d8d0939e2",
-      "download_count": 78,
+      "download_count": 81,
       "created_at": "2026-10-13T09:22:45Z",
       "updated_at": "2026-10-13T09:22:47Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7-10.8-MountainLion.pkg"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 265,
       "digest": "sha256:dd4beb915c2dcba11f0f5d4c9203682a3058702b86224e23b7b744242800fa02",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-10-13T09:22:47Z",
       "updated_at": "2026-10-13T09:22:48Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7-10.8-MountainLion.pkg.asc"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 5351554,
       "digest": "sha256:91edc6dc94289c3f4f137e5f4fecb4f1316767c6954ef621745aa801f0eae356",
-      "download_count": 122,
+      "download_count": 125,
       "created_at": "2026-10-13T09:22:48Z",
       "updated_at": "2026-10-13T09:22:50Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7-10.9-Mavericks.pkg"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 265,
       "digest": "sha256:ac5c3ed0aa0b94f2a5aa5024eaa023e955c21bc7bb4e77422dd60bff278e6644",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-10-13T09:22:50Z",
       "updated_at": "2026-10-13T09:22:50Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7-10.9-Mavericks.pkg.asc"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 7479775,
       "digest": "sha256:eb9de14da8fccf92730b8fe3bb6a71e34ad19b72778c70b109532ed5bfd665b7",
-      "download_count": 655,
+      "download_count": 711,
       "created_at": "2026-10-13T09:23:04Z",
       "updated_at": "2026-10-13T09:23:07Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7-11-BigSur.pkg"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 265,
       "digest": "sha256:204e07c1017830768991de58e1dcb120d13a2d07bff870bf12abb80d10abc27c",
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2026-10-13T09:23:07Z",
       "updated_at": "2026-10-13T09:23:07Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7-11-BigSur.pkg.asc"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 7460356,
       "digest": "sha256:6d2b48713c671728ac68ea9edd5d2f1581aaaa292a5bad124c6ac191b1f0cec3",
-      "download_count": 2163,
+      "download_count": 2283,
       "created_at": "2026-10-13T09:23:07Z",
       "updated_at": "2026-10-13T09:23:09Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7-12-Monterey.pkg"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 265,
       "digest": "sha256:025179a60234376edd9b1704e6f1785adaf5a4375814e9466301e5c56ec88af0",
-      "download_count": 30,
+      "download_count": 31,
       "created_at": "2026-10-13T09:23:09Z",
       "updated_at": "2026-10-13T09:23:10Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7-12-Monterey.pkg.asc"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 7461022,
       "digest": "sha256:89c71950329c073e8be9e0ace89081b73d021a00deaa2b885ce0974ed06990fe",
-      "download_count": 1847,
+      "download_count": 1933,
       "created_at": "2026-10-13T09:23:10Z",
       "updated_at": "2026-10-13T09:23:12Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7-13-Ventura.pkg"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 265,
       "digest": "sha256:02cc8da6acca702d788ac8ff1a6b68c035aa96bf763264b2a273ee5b1d813438",
-      "download_count": 38,
+      "download_count": 43,
       "created_at": "2026-10-13T09:23:12Z",
       "updated_at": "2026-10-13T09:23:13Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7-13-Ventura.pkg.asc"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 7419470,
       "digest": "sha256:6e6e8a96f051035b34bf5e4c48f889370056f6139f05029dbc20bedfd1b65c4a",
-      "download_count": 2045,
+      "download_count": 2179,
       "created_at": "2026-10-13T09:23:13Z",
       "updated_at": "2026-10-13T09:23:15Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7-14-Sonoma.pkg"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 265,
       "digest": "sha256:32a1dc45c68a24c574e219ef9e02bbb9596c94a98cb7b269a1b050cef52bd37f",
-      "download_count": 38,
+      "download_count": 40,
       "created_at": "2026-10-13T09:23:15Z",
       "updated_at": "2026-10-13T09:23:15Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7-14-Sonoma.pkg.asc"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 7472402,
       "digest": "sha256:87b2e87ed7adc4aca947b42eb7ff991614cc0edfccb486237f2bbc75f28aae63",
-      "download_count": 8819,
+      "download_count": 9459,
       "created_at": "2026-10-13T09:23:15Z",
       "updated_at": "2026-10-13T09:23:18Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7-15-Sequoia.pkg"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 265,
       "digest": "sha256:0ff5e6302e788c5cce0b5c5570baa6ab62f819a59aeadda32b0f99e1dbfbcb56",
-      "download_count": 57,
+      "download_count": 61,
       "created_at": "2026-10-13T09:23:17Z",
       "updated_at": "2026-10-13T09:23:18Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7-15-Sequoia.pkg.asc"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 7435356,
       "digest": "sha256:588f14ccd3c6199559a070a80e6cddd6871721a08cc434775bf54378fd667910",
-      "download_count": 8375,
+      "download_count": 9023,
       "created_at": "2026-10-13T09:23:18Z",
       "updated_at": "2026-10-13T09:23:20Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7-26-Tahoe.pkg"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 265,
       "digest": "sha256:3981b247ad0043cbf00fd5b0f9f97b3e1376f654ef10f69165d0f9e7cff971d5",
-      "download_count": 45,
+      "download_count": 49,
       "created_at": "2026-10-13T09:23:20Z",
       "updated_at": "2026-10-13T09:23:21Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7-26-Tahoe.pkg.asc"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 7388687,
       "digest": "sha256:e81cc182808a7c94f72a2121c7c7cabc9f135b88b9a88d477635f0912826da7e",
-      "download_count": 3335,
+      "download_count": 3438,
       "created_at": "2026-10-13T09:23:21Z",
       "updated_at": "2026-10-13T09:23:23Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7-27-GoldenGate.pkg"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 265,
       "digest": "sha256:501b3e1d4c543b5c9724bb66f559d27d999d06690edfa0d4d5daa5c2762946c4",
-      "download_count": 37,
+      "download_count": 38,
       "created_at": "2026-10-13T09:23:23Z",
       "updated_at": "2026-10-13T09:23:23Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7-27-GoldenGate.pkg.asc"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 6918,
       "digest": "sha256:a260e083938a94cd8c6ce5291afb6fb0a5933039ae5cf3812bbc501a8b4a46b5",
-      "download_count": 1347,
+      "download_count": 1520,
       "created_at": "2026-10-13T09:23:23Z",
       "updated_at": "2026-10-13T09:23:24Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7.chk.txt"
@@ -1399,7 +1399,7 @@
       "state": "uploaded",
       "size": 26154847,
       "digest": "sha256:6a3730de846bb78e3fb4ced2ed8d13f777e6aca2ab2f59cade9ca0d549ccc4ba",
-      "download_count": 20401,
+      "download_count": 21646,
       "created_at": "2026-10-13T09:23:24Z",
       "updated_at": "2026-10-13T09:23:29Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7.tar.bz2"
@@ -1435,7 +1435,7 @@
       "state": "uploaded",
       "size": 289,
       "digest": "sha256:cd6adba6c2d1d63e622f2ec3ea30d765085cd6fc709e115b59ad7540f06809a2",
-      "download_count": 24,
+      "download_count": 25,
       "created_at": "2026-10-13T09:23:29Z",
       "updated_at": "2026-10-13T09:23:29Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7.tar.bz2.asc"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 155,
       "digest": "sha256:3888462bc2d584f3ed44545eea3dea8623a73c5f22124e83ea19c27e0019e120",
-      "download_count": 19767,
+      "download_count": 20986,
       "created_at": "2026-10-13T09:23:29Z",
       "updated_at": "2026-10-13T09:23:30Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7.tar.bz2.sig"
@@ -1507,7 +1507,7 @@
       "state": "uploaded",
       "size": 31480529,
       "digest": "sha256:5e0902802ec32ad728938d936b268a2595d171d855758b5a097d77029201bf50",
-      "download_count": 119,
+      "download_count": 120,
       "created_at": "2026-10-13T09:23:30Z",
       "updated_at": "2026-10-13T09:23:35Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7.tar.gz"
@@ -1543,7 +1543,7 @@
       "state": "uploaded",
       "size": 289,
       "digest": "sha256:298b311f9514717f8b05f6ba73f8cfa25c7766f0dd42e16191bc100262e2c3cc",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2026-10-13T09:23:35Z",
       "updated_at": "2026-10-13T09:23:36Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7.tar.gz.asc"
@@ -1579,7 +1579,7 @@
       "state": "uploaded",
       "size": 155,
       "digest": "sha256:27e6b0d947fe19cacc4e8724476b3d66f625c12c4b2c937d68797972f9bfc6bb",
-      "download_count": 24,
+      "download_count": 25,
       "created_at": "2026-10-13T09:23:36Z",
       "updated_at": "2026-10-13T09:23:36Z",
       "browser_download_url": "https://github.com/macports/macports-base/releases/download/v2.12.7/MacPorts-2.12.7.tar.gz.sig"
