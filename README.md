@@ -30,9 +30,9 @@ Overall score: **4 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 2/30 approved changesets -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 1/30 approved changesets -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,064 · **Forks**: 289 · **Open issues**: 0 · **Contributors**: 89
+- **Stars**: 1,066 · **Forks**: 289 · **Open issues**: 0 · **Contributors**: 89
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 1 | 1 | 1 | 0 | 0 | 5 |
-| last60d | 2026-08-27 | 1 | 1 | 1 | 0 | 0 | 11 |
-| 90d | 2026-07-28 | 2 | 1 | 3 | 0 | 0 | 26 |
-| last180d | 2026-04-29 | 2 | 6 | 5 | 0 | 0 | 60 |
-| 360d | 2025-10-31 | 11 | 28 | 8 | 0 | 0 | 279 |
-| last720d | 2024-11-05 | 23 | 38 | 8 | 0 | 0 | 505 |
+| 30d | 2026-09-27 | 1 | 0 | 1 | 0 | 0 | 5 |
+| last60d | 2026-08-28 | 1 | 1 | 1 | 0 | 0 | 11 |
+| 90d | 2026-07-29 | 2 | 1 | 3 | 0 | 0 | 26 |
+| last180d | 2026-04-30 | 2 | 6 | 5 | 0 | 0 | 60 |
+| 360d | 2025-11-01 | 11 | 28 | 8 | 0 | 0 | 279 |
+| last720d | 2024-11-06 | 23 | 38 | 8 | 0 | 0 | 505 |
 
 ## Release assets
 
@@ -122,4 +122,4 @@ Install metadata for macports-base lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:47:32Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T04:59:10Z._

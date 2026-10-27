@@ -30,9 +30,9 @@ x install macports-base
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 2/30 approved changesets -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 1/30 approved changesets -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
 
@@ -48,7 +48,7 @@ x install macports-base
 
 ## 流行度
 
-- **Star**: 1,064 · **Fork**: 289 · **开放 issue**: 0 · **贡献者**: 89
+- **Star**: 1,066 · **Fork**: 289 · **开放 issue**: 0 · **贡献者**: 89
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install macports-base
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 1 | 1 | 1 | 0 | 0 | 5 |
-| last60d | 2026-08-27 | 1 | 1 | 1 | 0 | 0 | 11 |
-| 90d | 2026-07-28 | 2 | 1 | 3 | 0 | 0 | 26 |
-| last180d | 2026-04-29 | 2 | 6 | 5 | 0 | 0 | 60 |
-| 360d | 2025-10-31 | 11 | 28 | 8 | 0 | 0 | 279 |
-| last720d | 2024-11-05 | 23 | 38 | 8 | 0 | 0 | 505 |
+| 30d | 2026-09-27 | 1 | 0 | 1 | 0 | 0 | 5 |
+| last60d | 2026-08-28 | 1 | 1 | 1 | 0 | 0 | 11 |
+| 90d | 2026-07-29 | 2 | 1 | 3 | 0 | 0 | 26 |
+| last180d | 2026-04-30 | 2 | 6 | 5 | 0 | 0 | 60 |
+| 360d | 2025-11-01 | 11 | 28 | 8 | 0 | 0 | 279 |
+| last720d | 2024-11-06 | 23 | 38 | 8 | 0 | 0 | 505 |
 
 ## Release 资产
 
@@ -122,4 +122,4 @@ macports-base 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261026.yml` · 2026-10-26T04:47:33Z._
+_数据快照: `data/card/261027.yml` · 2026-10-27T04:59:11Z._
