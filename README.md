@@ -14,11 +14,11 @@ x install macports-base
 
 ## Code insight
 
-Total: **1,179,853** lines of code across **2579** files in the top 5 languages.
+Total: **1,179,857** lines of code across **2579** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 490,684 | 213,234 | 66,201 | 603 |
+| C | 490,688 | 213,234 | 66,201 | 603 |
 | Tcl | 408,338 | 105,138 | 61,026 | 1200 |
 | Html | 150,485 | 2,822 | 1,503 | 530 |
 | CHeader | 56,264 | 34,444 | 6,402 | 226 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.12.7` (2026-10-13)
-- **Last commit**: 2026-11-11
+- **Last commit**: 2026-11-12
 - **Assets in release**: 43
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 70 · **Merged PRs**: 268 · **Open PRs**: 34 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 9079
+- **Releases**: 70 · **Merged PRs**: 268 · **Open PRs**: 34 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 9082
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 1 | 1 | 1 | 0 | 0 | 2 |
-| last60d | 2026-09-13 | 1 | 2 | 1 | 0 | 0 | 12 |
-| 90d | 2026-08-14 | 2 | 2 | 2 | 0 | 0 | 24 |
-| last180d | 2026-05-16 | 2 | 7 | 4 | 0 | 0 | 60 |
-| 360d | 2025-11-17 | 11 | 29 | 8 | 0 | 0 | 276 |
-| last720d | 2024-11-22 | 23 | 36 | 8 | 0 | 0 | 501 |
+| 30d | 2026-10-14 | 0 | 1 | 1 | 0 | 0 | 5 |
+| last60d | 2026-09-14 | 1 | 2 | 1 | 0 | 0 | 15 |
+| 90d | 2026-08-15 | 2 | 2 | 2 | 0 | 0 | 27 |
+| last180d | 2026-05-17 | 2 | 7 | 4 | 0 | 0 | 63 |
+| 360d | 2025-11-18 | 11 | 29 | 8 | 0 | 0 | 279 |
+| last720d | 2024-11-23 | 22 | 35 | 8 | 0 | 0 | 501 |
 
 ## Release assets
 
@@ -122,4 +122,4 @@ Install metadata for macports-base lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T07:09:51Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T06:38:07Z._
