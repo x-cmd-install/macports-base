@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,094 · **Forks**: 293 · **Open issues**: 0 · **Contributors**: 89
+- **Stars**: 1,095 · **Forks**: 293 · **Open issues**: 0 · **Contributors**: 89
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 5 | 6 | 0 | 0 | 14 |
-| last60d | 2026-09-22 | 1 | 6 | 6 | 0 | 0 | 22 |
-| 90d | 2026-08-23 | 2 | 6 | 6 | 0 | 0 | 31 |
-| last180d | 2026-05-25 | 2 | 11 | 8 | 0 | 0 | 66 |
-| 360d | 2025-11-26 | 11 | 33 | 13 | 0 | 0 | 287 |
-| last720d | 2024-12-01 | 22 | 39 | 13 | 0 | 0 | 510 |
+| 30d | 2026-10-23 | 0 | 4 | 6 | 0 | 0 | 12 |
+| last60d | 2026-09-23 | 1 | 6 | 6 | 0 | 0 | 18 |
+| 90d | 2026-08-24 | 2 | 6 | 6 | 0 | 0 | 26 |
+| last180d | 2026-05-26 | 2 | 11 | 8 | 0 | 0 | 66 |
+| 360d | 2025-11-27 | 11 | 33 | 13 | 0 | 0 | 285 |
+| last720d | 2024-12-02 | 22 | 39 | 13 | 0 | 0 | 510 |
 
 ## Release assets
 
@@ -122,4 +122,4 @@ Install metadata for macports-base lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:15:50Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T06:45:42Z._
