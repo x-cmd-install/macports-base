@@ -14,12 +14,12 @@ x install macports-base
 
 ## Code insight
 
-Total: **1,179,916** lines of code across **2579** files in the top 5 languages.
+Total: **1,180,033** lines of code across **2580** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | C | 490,688 | 213,234 | 66,201 | 603 |
-| Tcl | 408,396 | 105,142 | 61,020 | 1200 |
+| Tcl | 408,512 | 105,150 | 61,038 | 1201 |
 | Html | 150,485 | 2,822 | 1,503 | 530 |
 | CHeader | 56,264 | 34,444 | 6,402 | 226 |
 | M4 | 27,379 | 7,375 | 1,662 | 20 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.12.7` (2026-10-13)
-- **Last commit**: 2026-11-25
+- **Last commit**: 2026-11-26
 - **Assets in release**: 43
 
 ## Popularity
 
-- **Stars**: 1,095 · **Forks**: 292 · **Open issues**: 0 · **Contributors**: 89
+- **Stars**: 1,096 · **Forks**: 292 · **Open issues**: 0 · **Contributors**: 90
 
 ## Totals (cumulative)
 
-- **Releases**: 70 · **Merged PRs**: 277 · **Open PRs**: 34 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 9103
+- **Releases**: 70 · **Merged PRs**: 278 · **Open PRs**: 33 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 9107
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 9 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-27 | 1 | 10 | 1 | 0 | 0 | 0 |
-| 90d | 2026-08-28 | 1 | 11 | 1 | 0 | 0 | 0 |
-| last180d | 2026-05-30 | 2 | 16 | 3 | 0 | 0 | 0 |
-| 360d | 2025-12-01 | 11 | 38 | 8 | 0 | 0 | 0 |
-| last720d | 2024-12-06 | 22 | 44 | 8 | 0 | 0 | 522 |
+| 30d | 2026-10-28 | 0 | 10 | 0 | 0 | 0 | 28 |
+| last60d | 2026-09-28 | 1 | 11 | 0 | 0 | 0 | 34 |
+| 90d | 2026-08-29 | 1 | 12 | 0 | 0 | 0 | 42 |
+| last180d | 2026-05-31 | 2 | 17 | 2 | 0 | 0 | 82 |
+| 360d | 2025-12-02 | 11 | 39 | 7 | 0 | 0 | 301 |
+| last720d | 2024-12-07 | 22 | 45 | 7 | 0 | 0 | 525 |
 
 ## Release assets
 
@@ -122,4 +122,4 @@ Install metadata for macports-base lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:36:12Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:52:54Z._
